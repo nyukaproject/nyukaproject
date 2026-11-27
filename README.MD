@@ -1,7 +1,10 @@
-<pre> 
-<i>v1.0</i>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡄⡔⢔⠔⡔⢔⠠⠀
+# ${{\color{yellow}\small{\texttt{ ./nyu.sh\ --print-gh-profile\\_\}}}}$
+
+
+<pre>
+<i>v1.1</i>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡄⡔⢔⠔⡔⢔⠠⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢄⠄⡄⡄⡄⢄⢀⠀⠀⠀⠀⠀⠀⢠⠸⡘⡜⢌⢎⠪⡊⡪⡨⠂⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢄⠄⡄⢄⠄⢄⡊⡪⡨⡸⢰⢑⠕⡜⢌⢎⠪⡊⡪⡠⠀⠀⡨⢢⠣⡣⢱⢑⢅⠣⡑⠈⠀⠀⠀       <b>[   github.com · NyukaProject · README.MD   ]</b>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢄⠄⡄⢄⠄⢄⡊⡪⡨⡸⢰⢑⠕⡜⢌⢎⠪⡊⡪⡠⠀⠀⡨⢢⠣⡣⢱⢑⢅⠣⡑⠈⠀⠀⠀       <b>[   github.com · <ins>NyukaProject</ins> · README.MD   ]</b>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠑⠘⠨⢂⢃⢪⠰⡑⡕⢜⢌⢪⠸⡐⡕⡱⢸⠨⡢⢣⢑⠕⡌⡪⡐⡌⢆⠣⢊⢊⠔⡠⡡⢠⠠⠀⠀⠀        
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢔⠢⡊⡆⡣⠱⡘⢔⠅⡕⢅⢣⠢⡣⡑⢕⠜⢔⢅⠣⡊⡢⡱⠨⢄⠑⠑⠐⠑⠑⠈⠀⠀⠀⠀⠀    
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢪⢘⠌⡪⡨⠢⡊⢎⢜⠰⡑⢜⠌⡆⡣⢪⢘⢌⢎⢢⠱⡡⠣⡑⢜⠸⡨⠪⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
@@ -13,18 +16,18 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠢⠑⠀⡎⡎⣴⡀⠀⡈⢔⢵⡱⢕⣱⣵⡆⣇⢹⣿⣶⣶⣬⣽⡊⡢⡃⡒⡌⢆⢅⢕⠰⡑⡨⠀⠀⠀⠀⠀⠀    |   important public &amp; collaborative open-source
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠃⠩⣾⣿⣇⣦⣬⣼⠰⣿⡿⠻⠿⣿⡪⣾⣿⣿⣿⣿⣿⣷⡢⡑⡑⡌⢆⠕⡰⢑⠐⠀⠀⠀⠀⠀⠀⠀    |   projects of all kinds.
 ⠀⠀⠀⠀⠀⠀⠠⡐⢅⠐⢸⣷⣦⣍⣛⠿⢿⠟⣠⡉⣴⣿⣷⣦⣬⠀⠀⠈⠉⠛⢿⣿⣧⠪⢨⢘⠔⡑⢌⠢⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: LATEST ARTICLES</b> (<a href="https://nyu.gg/-">READ↗</a>)
-⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST ARTICLES</b>   <a href="https://nyu.gg/blog">READ↗</a>
+⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance · back online 2027-01-01
 ⠀⠀⠀⠀⠀⠀⠀⠠⢂⢂⠂⡂⡘⢿⣿⣯⣿⣻⣿⣿⣿⣿⣿⣿⣿⣷⣶⣴⣿⣿⣿⣿⣻⣗⣽⢵⣯⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: LATEST COMMITS</b> (GH + <a href="https://nyu.gg/-">SELF-HOSTED↗</a>)
-⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST COMMITS <i>(all)</i></b>   <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
+⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance · back online 2027-01-01
 ⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: INFRASTRUCTURE &amp; LINKS</b> (<a href="https://status.nyukaproject.com/">STATUS↗</a>)
-⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |      status: <b>DOWN</b> · back online 2027-01-01
-⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |      links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
+⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>INFRASTRUCTURE</b>   <a href="https://status.nyukaproject.com/">STATUS↗</a>
+⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |     status: <b>MAINTENANCE</b> · uptime: <b>??.???%</b> · 🟠
+⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |     links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
 ⠀⠀⡀⠁⢈⠀⡀⢐⠈⠠⠐⢈⠠⠨⢳⣿⣽⣰⡵⠟⠡⠐⠈⠠⠨⡈⡂⠅⢅⢑⠌⡢⢑⠨⠨⢈⠌⡀⠄⠠⠠⠀⢂⠐⠠⠈⡀⠀    | 
 ⠀⠀⠄⠈⡀⢀⠂⠠⠁⠐⢈⠀⢄⣌⣪⣪⡃⠑⠠⠈⠄⠈⠄⠅⠁⡂⠄⡊⡐⠄⠅⢂⠂⢌⢐⢁⢐⠀⢂⠐⡀⠂⠄⠂⡀⠁⠀⠀    
 ⠀⠀⠂⠀⠄⠂⠄⠡⠀⢈⠠⡠⢟⢾⢽⡚⠀⡈⠄⢁⠈⠄⠅⢊⠐⠄⡁⡂⠄⠅⡨⠐⠨⢐⢐⢐⢐⠐⡀⠠⠐⠈⠠⠐⠀⠈⠀⠀    
 
-     ❤️ FOSS lover, contributor and creator
+     🤍 FOSS lover, contributor and creator
 </pre>
